@@ -1,0 +1,41 @@
+/* Some utilities*/
+* {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: black;
+  font-weight: 400;
+  line-height: 1.4;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  position: relative;
+  overflow-x: hidden;
+  padding: 0;
+  margin: 0;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+h1, h2, h3 {
+  margin-top: 0;
+}
+p, li, a {
+  font-size: 18px;
+}
+
+.page-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 20px;
+}
+.page-wrapper img {
+  width: 600px;
+  margin-bottom: 30px;
+}
+.page-wrapper ul {
+  margin: 0;
+  padding-left: 10px;
+}
