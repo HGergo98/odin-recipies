@@ -1,1 +1,3 @@
-# This repo is created to complete TOP(The Odin Project) HTML Foundations Recipies Project
+# TOP(The Odin Project) HTML Foundations, Recipies Project
+
+## This repo is created for complete the tasks
